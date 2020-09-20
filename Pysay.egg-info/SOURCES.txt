@@ -1,0 +1,7 @@
+README.md
+setup.py
+Pysay.egg-info/PKG-INFO
+Pysay.egg-info/SOURCES.txt
+Pysay.egg-info/dependency_links.txt
+Pysay.egg-info/entry_points.txt
+Pysay.egg-info/top_level.txt
